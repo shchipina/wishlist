@@ -15,7 +15,7 @@ const WishlistPage = () => {
       {wishlist.length === 0 ? (
         <p className="text-gray-500">You don't have any products in your wishlist yet</p>
       ) : (
-        <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 gap-4">
+        <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 gap-4 px-4">
           {wishlist.map((product) => (
             <ProductCard key={product.productId} product={product} />
           ))}
