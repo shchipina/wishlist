@@ -1,0 +1,27 @@
+[
+  {
+    "productId": "1",
+    "title": "Apple iPhone 14 Pro",
+    "details": "Смартфон з дисплеєм Super Retina XDR, A16 Bionic та покращеною камерою."
+  },
+  {
+    "productId": "2",
+    "title": "Samsung Galaxy S23",
+    "details": "Потужний Android смартфон із камерою 200 Мп та Snapdragon 8 Gen 2."
+  },
+  {
+    "productId": "3",
+    "title": "Sony WH-1000XM5",
+    "details": "Бездротові навушники з шумозаглушенням і 30 годинами роботи."
+  },
+  {
+    "productId": "4",
+    "title": "Apple MacBook Air M2",
+    "details": "Легкий ноутбук із процесором Apple M2 та дисплеєм Liquid Retina."
+  },
+  {
+    "productId": "5",
+    "title": "Xiaomi Smart Band 8",
+    "details": "Фітнес-браслет із AMOLED-дисплеєм та трекером активності."
+  }
+]
